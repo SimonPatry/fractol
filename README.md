@@ -5,11 +5,12 @@ Le but de ce projet est de réalisé un programme capable de rendre à l'écran 
 
 Voici un exemple de la fractale mandelbrot:
 
-![screenshot](https://github.com/SimonPatry/fractol/blob/master/fractales/buddhabrot.png)
+![screenshot](https://github.com/SimonPatry/fractol/blob/master/fractales/mandelbrot.png)
 
 Et un de Buddhabrot:
 
-![](fractales/Buddhabrot.png)
+
+![screenshot](https://github.com/SimonPatry/fractol/blob/master/fractales/buddhabrot.png)
 
 Le potentiel infini des fractales les rends particulièrement intéressantes à rendre à l'écran, en modifiant les couleurs et en zoomant à l'infini:
 
