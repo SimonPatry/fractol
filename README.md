@@ -5,7 +5,7 @@ Le but de ce projet est de réalisé un programme capable de rendre à l'écran 
 
 Voici un exemple de la fractale mandelbrot:
 
-![screenshot](https://github.com/SimonPatry/fractol/blob/master/fractales/mandelbrot.png)
+![screenshot](https://github.com/SimonPatry/fractol/blob/master/fractales/mandelbrot2.png)
 
 Et un de Buddhabrot:
 
