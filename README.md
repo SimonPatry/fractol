@@ -9,7 +9,7 @@ Voici un exemple de la fractale mandelbrot:
 
 Et un de Buddhabrot:
 
-![](fractales/Buddhabrot.gif)
+![](fractales/Buddhabrot.png)
 
 Le potentiel infini des fractales les rends particulièrement intéressantes à rendre à l'écran, en modifiant les couleurs et en zoomant à l'infini:
 
